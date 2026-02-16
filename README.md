@@ -11,7 +11,7 @@ Automated testing framework for SauceDemo e-commerce application using Python, P
 - HTML test reports
 
 ## Technologies
-- Python 3.14
+- Python 3.12
 - Playwright 1.57.0
 - pytest 9.0.2
 - GitHub Actions
@@ -27,7 +27,7 @@ Automated testing framework for SauceDemo e-commerce application using Python, P
 ## Setup
 
 ### Prerequisites
-- Python 3.12+
+- Python 3.12
 - pip
 
 ### Installation
